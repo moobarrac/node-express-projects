@@ -8,6 +8,8 @@ This repository contains a collection of Node.js projects built using the Expres
 
 2. **Project 2**: 02-Store API.
 
+3. **Project 3**: 03-JWT-Basics.
+
 ## Getting Started
 
 To get started with any of the projects, follow the steps below:
@@ -16,4 +18,4 @@ To get started with any of the projects, follow the steps below:
 
    ```bash
    git clone https://github.com/your-username/node-express-projects.git
-
+   ```
