@@ -10,6 +10,8 @@ This repository contains a collection of Node.js projects built using the Expres
 
 3. **Project 3**: 03-JWT-Basics.
 
+4. **Project 4**: 04-Jobs API.
+
 ## Getting Started
 
 To get started with any of the projects, follow the steps below:
