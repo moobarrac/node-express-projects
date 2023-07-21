@@ -12,6 +12,8 @@ This repository contains a collection of Node.js projects built using the Expres
 
 4. **Project 4**: 04-Jobs API.
 
+5. **Project 5**: 05-Jobster.
+
 ## Getting Started
 
 To get started with any of the projects, follow the steps below:
