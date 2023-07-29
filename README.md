@@ -14,6 +14,8 @@ This repository contains a collection of Node.js projects built using the Expres
 
 5. **Project 5**: 05-Jobster.
 
+6. **Project 6**: 06-File Upload.
+
 ## Getting Started
 
 To get started with any of the projects, follow the steps below:
