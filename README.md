@@ -16,6 +16,8 @@ This repository contains a collection of Node.js projects built using the Expres
 
 6. **Project 6**: 06-File Upload.
 
+7. **Project 7**: 07-Ecommerce API.
+
 ## Getting Started
 
 To get started with any of the projects, follow the steps below:
